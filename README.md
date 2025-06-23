@@ -1,4 +1,4 @@
-# posinstallarch.com.br
+# posinstallarch
 Pos Install ArchLinux
 
 			Termo de Responsabilidade (B R A Z I L)
